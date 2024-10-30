@@ -36,7 +36,7 @@ Siga os passos abaixo para rodar o projeto localmente:
    ├── src
    │   ├── main
    │   │   ├── java/com/example/appconsumo
-   │   │   │   ├── MainActivity.java # Atividade principal para monitoramento de consumo
+   │   │   │   ├── MainActivity.java # Atividade principal onde pe jogo de jokenpow é executado
    │   │   ├── res
    │   │   │   ├── drawable
    │   │   │   │   ├── padrao # Imagem quando você começa uma nova partida
